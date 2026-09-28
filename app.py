@@ -2,7 +2,6 @@ import streamlit as st
 <<<<<<< HEAD
 =======
 from streamlit_gsheets import GSheetsConnection
->>>>>>> 7f7348108b724b40b5d9a6f362af65c622e24529
 import pandas as pd
 from datetime import datetime
 
